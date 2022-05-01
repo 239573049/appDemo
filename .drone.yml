@@ -8,7 +8,7 @@ platform:
 
 steps:
   - name: build
-    image: node:slim
+    image: node
     depends_on: [clone]
     volumes:
       - name: node_modules
