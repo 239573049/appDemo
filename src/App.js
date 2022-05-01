@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          超级熟练使用ci/cd部署前端项目
         </a>
       </header>
     </div>
